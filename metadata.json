@@ -1,0 +1,6 @@
+{
+  "name": "PlaceTrace",
+  "description": "Trace your placement journey. Find where it breaks. Empirical placement funnel diagnostics, bottleneck isolation, and controlled experiments for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
